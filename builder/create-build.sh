@@ -14,7 +14,7 @@
 set -e
 #set -x
 
-BUILDROOT_VERSION=2024.02
+BUILDROOT_VERSION=2025.05
 DEFCONFIG=$1
 BUILD_DIR=$2
 
@@ -147,4 +147,3 @@ echo "For additional options, run 'make help' in the build directory."
 echo
 echo "IMPORTANT: If you update custom-project, you should rerun this script."
 echo "           It will refresh the configuration in the build directory."
-
