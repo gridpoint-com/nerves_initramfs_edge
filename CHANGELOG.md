@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.9.0
+
+* Update buildroot to v2025.05
+* Update toolchain to v14.2.0
+
 ## v0.8.0
 
 * Build using same gcc-13.2.0 toolchain that the nerves_system uses
