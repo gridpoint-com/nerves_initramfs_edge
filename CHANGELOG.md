@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.9.1
+
+* Fix compiler errors from gcc v15.3.0 and v16.1.1
+
 ## v0.9.0
 
 * Update buildroot to v2025.05
